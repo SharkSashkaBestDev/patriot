@@ -13,5 +13,9 @@ See deployment for notes on how to deploy the project on a live system.
 * [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) **1.8+**
 * [SikuliX API](https://launchpad.net/sikuli/sikulix) **v.1.1.2**
 * Replaced images of ru flag and ua flag depending on your OS (for OSX it's not required)
+* For OSX users also required to add your IDE or application itself to list of allowed:
+![](osx_allowed_security.png)
+
+### Patriot in action
 
 ![](animation.gif)
